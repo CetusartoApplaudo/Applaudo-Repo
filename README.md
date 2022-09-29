@@ -1,1 +1,1 @@
-This is the main branch of the repo
+This is the developer branch of the repo
